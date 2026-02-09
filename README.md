@@ -1,5 +1,5 @@
 # Tensor-Methods-for-Material-Design
-Code for KDD'26 AI4Science submission
+Code for KDD'26 AI for Sciences track submission
 
 ### Experiments (section 3 in paper)
 
