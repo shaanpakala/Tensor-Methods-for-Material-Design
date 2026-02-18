@@ -1,8 +1,8 @@
 # Tensor-Methods-for-Material-Design
 
-Contact: `shaan.pakala@gmail.com`
-
 Code for KDD'26 AI for Sciences track submission
+
+Contact: `shaan.pakala@gmail.com`
 
 ### Experiments (section 3 in paper)
 
