@@ -1,6 +1,6 @@
 # Tensor-Methods-for-Material-Design
 
-Code for KDD'26 AI for Sciences track submission
+Code for KDD'26 AI for Sciences track paper
 
 Contact: `shaan.pakala@gmail.com`
 
