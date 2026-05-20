@@ -2,7 +2,7 @@
 
 Code for ACM SIGKDD ([AI for Sciences track](https://kdd2026.kdd.org/ai4sciences-track-call-for-papers/)) paper
 
-Contact: `spaka002@ucr.com`
+Contact: `spaka002@ucr.edu`
 
 ### Experiments (section 3 in paper)
 
