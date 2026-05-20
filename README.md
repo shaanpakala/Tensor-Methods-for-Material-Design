@@ -1,8 +1,8 @@
-# Tensor-Methods-for-Material-Design
+# Tensor Methods: A Unified and Interpretable Approach for Material Design
 
-Code for KDD'26 AI for Sciences track paper
+Code for ACM SIGKDD ([AI for Sciences track](https://kdd2026.kdd.org/ai4sciences-track-call-for-papers/)) paper
 
-Contact: `shaan.pakala@gmail.com`
+Contact: `spaka002@ucr.com`
 
 ### Experiments (section 3 in paper)
 
