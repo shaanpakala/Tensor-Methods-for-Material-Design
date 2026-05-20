@@ -20,3 +20,14 @@ Crossed barrel & Cogni-e-Spin datasets are in `data` directory (we cannot make t
 
 ### Tensor Completion Models
 Tensor completion models used are in `tensor_completion_models` directory
+
+### Citation:
+
+```
+@article{pakala2026tensor,
+  title={Tensor Methods: A Unified and Interpretable Approach for Material Design},
+  author={Pakala, Shaan and Gongora, Aldair E and Giera, Brian and Papalexakis, Evangelos E},
+  journal={arXiv preprint arXiv:2602.10392},
+  year={2026}
+}
+```
