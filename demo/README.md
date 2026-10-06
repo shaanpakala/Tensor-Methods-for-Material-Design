@@ -1,4 +1,4 @@
-# Interpretability demo
+# Demo
 
 Download this `demo/` folder by itself. Put a CSV of your own designs in `demo/data/`, install the packages below, and run `demo.ipynb`. Each row should be one tested design: the design variables and one measured property. The notebook fits a CP decomposition on those rows and returns a holdout parity plot plus factor plots for two variables you choose.
 
