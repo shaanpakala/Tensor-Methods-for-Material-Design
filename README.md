@@ -8,7 +8,7 @@ Code for the KDD'26 AI for Sciences track paper
 
 ## Demo: Try a decomposition
 
-`[demo/](demo/)` is a short notebook you can run without the rest of the experiment code. Put a CSV in `demo/data/`. Each row is one tested design: the design variables and one property. The notebook lists the CSVs, fits a CP decomposition on the observed rows, draws a parity plot on a 20% holdout, and plots two modes you choose.
+``demo/`` is a short notebook you can run without the rest of the experiment code. Put a CSV in `demo/data/`. Each row is one tested design: the design variables and one property. The notebook lists the CSVs, fits a CP decomposition on the observed rows, draws a parity plot on a 20% holdout, and plots two modes you choose.
 
 ```bash
 cd demo
