@@ -34,6 +34,8 @@ Run the notebooks from the repository root. They import `tensor_completion_model
 
 Each notebook has a `dataset` switch: `'lattice'`, `'crossed_barrel'`, or `'cogni_spin'`. The lattice dataset is not available in this repo. Ranks and learning rates for the paper are in the training cells. Biased sampling is built inside the notebooks. It is not a column in the CSVs. Targets are scaled to [0, 1] before the tables, so MAE and RMSE are unitless.
 
+*Please note this* `README.md` *file was created with heavy usage of cursor.ai, apologies for any mistakes.*
+
 ### Citation:
 
 ```
