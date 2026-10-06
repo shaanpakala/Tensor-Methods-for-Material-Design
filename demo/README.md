@@ -17,6 +17,7 @@ The notebook prints every CSV in `demo/data/` with an index. Set `data_file_i` t
 | `data_file_i`     | Index of a CSV in `demo/data/`. The notebook prints that list first                            |
 | `feature_columns` | Design variables. Each column becomes one tensor mode                                          |
 | `target_column`   | Property stored in the observed entries                                                        |
+| `rank`            | CP decomposition rank                                                                          |
 | `modes_to_plot`   | Two names from `feature_columns`                                                               |
 | `log_target`      | Log the property before scaling. Use this for a positive target that spans orders of magnitude |
 
