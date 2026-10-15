@@ -7,14 +7,14 @@ pip install -r requirements.txt
 jupyter notebook demo.ipynb
 ```
 
-The notebook prints every CSV in `demo/data/` with an index. Set `data_file_i` to your file, then set `feature_columns`, `target_column`, and `modes_to_plot` to names in that file. A finished crossed-barrel run (toughness, twist, and radius) is already saved in the notebook. The charts follow Section 3.1 of [Tensor Methods: A Unified and Interpretable Approach for Material Design](https://doi.org/10.1145/3770855.3819008).
+Set `data_file` to the CSV name in `demo/data/`, then set `feature_columns`, `target_column`, and `modes_to_plot` to names in that file. A finished crossed-barrel run (toughness, twist, and radius) is already saved in the notebook. The charts follow Section 3.1 of [Tensor Methods: A Unified and Interpretable Approach for Material Design](https://doi.org/10.1145/3770855.3819008).
 
 ## What to edit
 
 
 | Setting           | Role                                                                                           |
 | ----------------- | ---------------------------------------------------------------------------------------------- |
-| `data_file_i`     | Index of a CSV in `demo/data/`. The notebook prints that list first                            |
+| `data_file`       | Filename of a CSV in `demo/data/`, such as `crossed_barrel_cleaned.csv`                        |
 | `feature_columns` | Design variables. Each column becomes one tensor mode                                          |
 | `target_column`   | Property stored in the observed entries                                                        |
 | `rank`            | CP decomposition rank                                                                          |
